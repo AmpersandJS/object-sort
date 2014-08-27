@@ -1,0 +1,27 @@
+{
+    "name": "object-sort",
+    "description": "Sort an array of objects in various ways.",
+    "version": "1.0.0",
+    "author": "ConneXNL and &yet",
+    "bugs": {
+        "url": "https://github.com/ampersand/object-sort/issues"
+    },
+    "homepage": "https://github.com/ampersand/object-sort",
+    "keywords": [
+        "sort",
+        "objects",
+        "array"
+    ],
+    "license": "MIT",
+    "main": "object-sort.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ampersand/object-sort"
+    },
+    "scripts": {
+        "test": "node test.js"
+    },
+    "devDependencies": {
+        "tape": "^2.14.0"
+    }
+}
